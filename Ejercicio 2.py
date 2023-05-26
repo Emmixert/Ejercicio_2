@@ -33,8 +33,8 @@ total_columns = len(lst[0])
 
 #Images
 
-trashBin=PhotoImage(file= r"C:\Users\Ivan Armenta\Documents\Python Tkinter\TAP 2\delete-756.png")
-search=PhotoImage(file= r"C:\Users\Ivan Armenta\Documents\Python Tkinter\TAP 2\search.png")
+trashBin=PhotoImage(file= r"delete-756.png")
+search=PhotoImage(file= r"search.png")
 
 #Frames
 
